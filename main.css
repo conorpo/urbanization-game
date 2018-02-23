@@ -1,0 +1,13 @@
+canvas{
+
+}
+button{
+  width: 10%;
+  height: 50px;
+  float: left;
+}
+input{
+  float:left;
+  height: 40px;
+  width:10%;
+}
